@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sarahjacobsdev/static/css/main.3a42b3f1.css",
-    "main.js": "/sarahjacobsdev/static/js/main.afb2e671.js",
+    "main.css": "/sarahjacobsdev/static/css/main.6a18172c.css",
+    "main.js": "/sarahjacobsdev/static/js/main.87850ed4.js",
     "static/js/787.31932ff6.chunk.js": "/sarahjacobsdev/static/js/787.31932ff6.chunk.js",
     "static/media/petesza.png": "/sarahjacobsdev/static/media/petesza.74607fd41c86c6bf24d9.png",
     "static/media/logo.gif": "/sarahjacobsdev/static/media/logo.e1e0fe2383b382093528.gif",
@@ -13,12 +13,12 @@
     "static/media/bi.png": "/sarahjacobsdev/static/media/bi.33af0620c24cdeefc31f.png",
     "static/media/tuter.png": "/sarahjacobsdev/static/media/tuter.86fc26b48a508c2830c9.png",
     "index.html": "/sarahjacobsdev/index.html",
-    "main.3a42b3f1.css.map": "/sarahjacobsdev/static/css/main.3a42b3f1.css.map",
-    "main.afb2e671.js.map": "/sarahjacobsdev/static/js/main.afb2e671.js.map",
+    "main.6a18172c.css.map": "/sarahjacobsdev/static/css/main.6a18172c.css.map",
+    "main.87850ed4.js.map": "/sarahjacobsdev/static/js/main.87850ed4.js.map",
     "787.31932ff6.chunk.js.map": "/sarahjacobsdev/static/js/787.31932ff6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a42b3f1.css",
-    "static/js/main.afb2e671.js"
+    "static/css/main.6a18172c.css",
+    "static/js/main.87850ed4.js"
   ]
 }
