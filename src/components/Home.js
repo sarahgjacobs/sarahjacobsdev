@@ -13,7 +13,7 @@ function Home() {
                     for communication, a love for digital media, and a dash of teaching experience,
                     I've infused my skills with a Coding certification from Georgia Tech
                     Bootcamps. Now, I'm on the hunt for exciting opportunities in the tech
-                    world. Curious to know more? Swing by the 'About' page to discover my
+                    world. Curious to know more? Swing by my Projects page to discover my
                     newest websites!
                 </p>
             </div>
@@ -25,6 +25,29 @@ function Home() {
                     <button className="resume-button">Resume Docx</button>
                 </a>
             </div>
+            <div className='hobbies'>
+                <p>In my free time you can find me:
+                    <ul className='hobbie-list'>
+                        <li>
+                            Reading (<a href="https://a.co/d/3zq8Gjv">Clean Code by Robert Martin</a>)
+                        </li>
+                        <li>
+                        Studying Korean
+                        </li>
+                        <li>
+                        <a href="https://sarahgjacobs.github.io/sarahjacobswrites/#">Writing novels</a>
+                        </li>
+                        <li>
+                            Exercising
+                        </li>
+                        <li>
+                            Or playing video games 
+                        </li>
+                    </ul> 
+                    </p>
+            </div>
+
+
         </div>
     )
 }
