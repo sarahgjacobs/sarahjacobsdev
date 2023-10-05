@@ -7,31 +7,22 @@ function Navbar() {
         <div className='navbar'>
             <div className='left-nav'>Sarah Jacobs</div>
             <div className='right-nav'>
-            <BrowserRouter>
-
-                <ul className='list'>
-                    <li>
-                        <Link to="/" className="">
-                            Home
-                        </Link>
-                    </li>
-                    <li>
-                        <Link to="/projects" className="">
-                            Projects
-                        </Link>
-                    </li>
-                    <li>
-                        <Link to="/about" className="">
-                            About
-                        </Link>
-                    </li>
-                    <li>
-                        <Link to="/contact" className="">
-                            Contact
-                        </Link>
-                    </li>
-                </ul>
-                </BrowserRouter>
+                <nav>
+                    <ul className='list'>
+                        <li>
+                            <a href="#home">Home</a>
+                        </li>
+                        <li>
+                            <a href="#projects">Projects</a>
+                        </li>
+                        <li>
+                            <a href="#about">About</a>
+                        </li>
+                        <li>
+                            <a href="#contact">Contact</a>
+                        </li>
+                    </ul>
+                </nav>
 
             </div>
         </div>

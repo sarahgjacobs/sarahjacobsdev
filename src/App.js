@@ -10,11 +10,18 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Home />
-      <Projects />
-      <About />
-      <Contact />
-      <Footer />
+      <section id="home">
+        <Home />
+      </section>
+      <section id="projects">
+        <Projects />
+      </section>
+      <section id="about">
+        <About />
+      </section>
+      <section id="contact">
+        <Contact />
+      </section>
     </div>
   );
 }
