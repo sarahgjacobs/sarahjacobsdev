@@ -163,7 +163,6 @@ h1 {
 .project-cards {
   display: flex;
   flex-wrap: wrap;
-  
   justify-content: space-between;
 }
 
@@ -337,32 +336,29 @@ section {
   }
 
   .right-nav {
-    display: none; /* Hide right navigation links on small screens */
+    display: none; 
   }
 
   .list {
-    display: none; /* Hide the list on small screens */
+    display: none; 
   }
-
-  /* Add a mobile menu icon here and style it */
+  .project-card {
+    width: 100%; 
+  }
 }
 
-/* Tablets */
+
 @media (min-width: 601px) and (max-width: 1024px) {
   .left-nav {
     font-size: large;
   }
 
   .right-nav {
-    display: flex; /* Show right navigation links on tablets */
+    display: flex; 
   }
 
   .list {
-    display: none; /* Hide the list on tablets */
+    display: none; 
   }
 }
 
-/* Larger screens (Desktops) */
-@media (min-width: 1025px) {
-  /* Use your existing styles for larger screens */
-}
