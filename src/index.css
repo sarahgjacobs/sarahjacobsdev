@@ -143,6 +143,7 @@ h1 {
 .hobbie-list {
   list-style-type: none; 
   padding: 0; 
+  font-weight: 600;
 }
 
 .hobbie-list li {
@@ -272,7 +273,9 @@ section {
   font-size: 16px;
 }
 
-
+.green-icon {
+  color: #007855;
+}
 
 
 /* Contact Page */
