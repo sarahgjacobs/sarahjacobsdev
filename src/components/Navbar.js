@@ -1,13 +1,15 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
+import { Link, BrowserRouter } from 'react-router-dom';
 
 
 function Navbar() {
     return (
-        <div>
+        <div className='navbar'>
             <div className='left-nav'>Sarah Jacobs</div>
             <div className='right-nav'>
-                <ul>
+            <BrowserRouter>
+
+                <ul className='list'>
                     <li>
                         <Link to="/" className="">
                             Home
@@ -29,6 +31,8 @@ function Navbar() {
                         </Link>
                     </li>
                 </ul>
+                </BrowserRouter>
+
             </div>
         </div>
     )
