@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sarahjacobsdev/static/css/main.35336ebc.css",
+    "main.css": "/sarahjacobsdev/static/css/main.2a3faf58.css",
     "main.js": "/sarahjacobsdev/static/js/main.981834f1.js",
     "static/js/787.31932ff6.chunk.js": "/sarahjacobsdev/static/js/787.31932ff6.chunk.js",
     "static/media/petesza.png": "/sarahjacobsdev/static/media/petesza.74607fd41c86c6bf24d9.png",
@@ -13,12 +13,12 @@
     "static/media/bi.png": "/sarahjacobsdev/static/media/bi.33af0620c24cdeefc31f.png",
     "static/media/tuter.png": "/sarahjacobsdev/static/media/tuter.86fc26b48a508c2830c9.png",
     "index.html": "/sarahjacobsdev/index.html",
-    "main.35336ebc.css.map": "/sarahjacobsdev/static/css/main.35336ebc.css.map",
+    "main.2a3faf58.css.map": "/sarahjacobsdev/static/css/main.2a3faf58.css.map",
     "main.981834f1.js.map": "/sarahjacobsdev/static/js/main.981834f1.js.map",
     "787.31932ff6.chunk.js.map": "/sarahjacobsdev/static/js/787.31932ff6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35336ebc.css",
+    "static/css/main.2a3faf58.css",
     "static/js/main.981834f1.js"
   ]
 }
