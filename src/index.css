@@ -278,12 +278,13 @@ section {
 /* Contact Page */
 
 #contact {
-  color: black;
   padding: 50px; 
   text-align: center; 
   display: flex;
   flex-direction: column;
   align-items: center; 
+  margin-bottom: 5%;
+
 }
 
 .social-icons {
@@ -292,12 +293,73 @@ section {
 }
 
 .social-icons a {
-  font-size: 24px;
+  font-size: 40px;
   margin: 0 10px; 
+  padding: 10px;
   color: #007855; /* Icon color */
   text-decoration: none;
 }
 
 .icon-color {
   color: #007855; /* Icon color */
+}
+
+/* Footer */
+
+/* CSS for the footer */
+.footer {
+  background-color: #007855;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer a {
+  background-color: #007855;
+  color: white; 
+  text-decoration: none; 
+}
+
+.footer p {
+  background-color: #007855;
+  color: white;
+}
+
+
+/* Phone sizes */
+
+@media (max-width: 600px) {
+  .left-nav {
+    font-size: large;
+  }
+
+  .right-nav {
+    display: none; /* Hide right navigation links on small screens */
+  }
+
+  .list {
+    display: none; /* Hide the list on small screens */
+  }
+
+  /* Add a mobile menu icon here and style it */
+}
+
+/* Tablets */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .left-nav {
+    font-size: large;
+  }
+
+  .right-nav {
+    display: flex; /* Show right navigation links on tablets */
+  }
+
+  .list {
+    display: none; /* Hide the list on tablets */
+  }
+}
+
+/* Larger screens (Desktops) */
+@media (min-width: 1025px) {
+  /* Use your existing styles for larger screens */
 }
