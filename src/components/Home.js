@@ -35,7 +35,7 @@ function Home() {
                         Studying Korean
                         </li>
                         <li>
-                        <a href="https://sarahgjacobs.github.io/thecircuit">Writing novels</a>
+                        <a href="https://github.com/sarahgjacobs/bookfolio">Writing novels</a>
                         </li>
                         <li>
                             Exercising
