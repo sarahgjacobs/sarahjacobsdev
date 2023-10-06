@@ -13,7 +13,7 @@ const projects = [
         id: 1,
         title: "Services",
         tools: "React, JavaScript, HTML, Tailwind and CSS",
-        description: "Tuter is a social network for tutors and students to share questions, homework details and more in an online, efficient platform. Now tutors can be accurately prepared to show up to sessions with the right materials and expectations in hand. It's as simple as uploading a picture of your homework, filling out a few questions and submitting it. Then you're done and on your way to better learning!",
+        description: "Services is a cutting-edge project developed using React and Tailwind, delivering a modern, responsive UI. Designed to serve as a versatile template for website-seeking companies, it empowers businesses to engage customers effectively while showcasing their services.",
         image: services,
         link: "https://sarahgjacobs.github.io/services/"
     },
@@ -55,7 +55,7 @@ const projects = [
         tools: "React, HTML, CSS, Tailwind",
         description: "Step into the extraordinary realms of my storytelling craft, where I conjure intricate plots and fantastical worlds. As a writer of fiction, sci-fi, and fantasy, I invite you to share in my adventures, where each word carries a piece of my heart and every page is an invitation to explore the limitless depths of imagination. This website is my go-to landing page for friends and family to view my pieces, then browse my available books on Amazon.",
         image: Book,
-        link: "https://sarahgjacobs.github.io/thecircuit"
+        link: "https://github.com/sarahgjacobs/bookfolio"
     },
     {
         id: 7,
