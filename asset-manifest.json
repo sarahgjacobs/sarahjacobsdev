@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/sarahjacobsdev/static/css/main.2a3faf58.css",
-    "main.js": "/sarahjacobsdev/static/js/main.981834f1.js",
+    "main.css": "/sarahjacobsdev/static/css/main.54aa2d63.css",
+    "main.js": "/sarahjacobsdev/static/js/main.c77873e2.js",
     "static/js/787.31932ff6.chunk.js": "/sarahjacobsdev/static/js/787.31932ff6.chunk.js",
     "static/media/petesza.png": "/sarahjacobsdev/static/media/petesza.74607fd41c86c6bf24d9.png",
     "static/media/logo.gif": "/sarahjacobsdev/static/media/logo.e1e0fe2383b382093528.gif",
+    "static/media/book.png": "/sarahjacobsdev/static/media/book.a8857e90629d08955f4b.png",
     "static/media/sjw.png": "/sarahjacobsdev/static/media/sjw.e7983c3723fa1783d3aa.png",
     "static/media/SJ_resume.docx": "/sarahjacobsdev/static/media/SJ_resume.4692655507e064499489.docx",
     "static/media/services.png": "/sarahjacobsdev/static/media/services.50177e2966abed89cea3.png",
@@ -13,12 +14,12 @@
     "static/media/bi.png": "/sarahjacobsdev/static/media/bi.33af0620c24cdeefc31f.png",
     "static/media/tuter.png": "/sarahjacobsdev/static/media/tuter.86fc26b48a508c2830c9.png",
     "index.html": "/sarahjacobsdev/index.html",
-    "main.2a3faf58.css.map": "/sarahjacobsdev/static/css/main.2a3faf58.css.map",
-    "main.981834f1.js.map": "/sarahjacobsdev/static/js/main.981834f1.js.map",
+    "main.54aa2d63.css.map": "/sarahjacobsdev/static/css/main.54aa2d63.css.map",
+    "main.c77873e2.js.map": "/sarahjacobsdev/static/js/main.c77873e2.js.map",
     "787.31932ff6.chunk.js.map": "/sarahjacobsdev/static/js/787.31932ff6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a3faf58.css",
-    "static/js/main.981834f1.js"
+    "static/css/main.54aa2d63.css",
+    "static/js/main.c77873e2.js"
   ]
 }
