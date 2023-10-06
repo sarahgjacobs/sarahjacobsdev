@@ -35,13 +35,13 @@ function Home() {
                         Studying Korean
                         </li>
                         <li>
-                        <a href="https://sarahgjacobs.github.io/sarahjacobswrites/#">Writing novels</a>
+                        <a href="https://sarahgjacobs.github.io/thecircuit">Writing novels</a>
                         </li>
                         <li>
                             Exercising
                         </li>
                         <li>
-                            Or playing video games 
+                            Playing video games 
                         </li>
                     </ul> 
                     </p>

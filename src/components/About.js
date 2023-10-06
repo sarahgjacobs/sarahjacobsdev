@@ -5,7 +5,7 @@ import {
     faJs,
     faHtml5,
     faNode,
-    faDatabase,
+    faPython,
     faBootstrap,
     faJava,
 } from '@fortawesome/free-brands-svg-icons';
@@ -30,6 +30,9 @@ function About() {
                         </p>
                         <p className='tech-item'>
                             <FontAwesomeIcon icon={faNode} className='green-icon' /> Node
+                        </p>
+                        <p className='tech-item'>
+                            <FontAwesomeIcon icon={faPython} className='green-icon' /> Python
                         </p>
                         <p className='tech-item'>
                             Express
@@ -58,6 +61,20 @@ function About() {
                         </div>
                     </div>
                 </div>
+                <div className='section'>
+                <div className='tech-stack'>
+                        <h2 className='tech-item'>Relevant Experience</h2>
+                        
+                            <p className='tech-item'>Established growing English tutoring business for Atlanta expat families as a <span className='soft-dev'>self-taught</span> Korean speaker</p>
+                            <p className='tech-item'>ESOL teacher fostering language fluency for diverse adult families worldwide </p>
+                            <p className='tech-item'>Reliable house and pet sitter with 5+ years of dedicated service</p>
+                            <p className='tech-item'>Computer science educator for AP and college levels, shaping future tech innovators</p>
+                            <p className='tech-item'>Self-published author with rich, twisting plots and thoughtful characters </p>
+
+                            
+                        
+                    </div>
+                    </div>
             </div>
         </div>
 
